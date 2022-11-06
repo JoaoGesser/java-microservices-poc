@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e04128c1-c34e-4139-a725-0b14676501bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-eureka-gallery/src/main/java/com/microservices/Gallery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-gallery/src/main/java/com/microservices/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-gallery/src/main/java/com/microservices/SpringEurekaGalleryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-image/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-image/src/main/java/com/microservices/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-image/src/main/java/com/microservices/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-image/src/main/java/com/microservices/SpringEurekaImageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-image/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-server/src/main/java/com/microservices/SpringEurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-zuul/src/main/java/com/microservices/SpringEurekaZuulApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/spring-eureka-gallery/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-microservices-poc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-eureka-gallery/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HAfaVe7koZci14VLXnwR5r1XDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.SpringEurekaImageApplication 2">
+    <configuration name="SpringEurekaGalleryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.SpringEurekaGalleryApplication" />
+      <module name="spring-eureka-gallery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaImageApplication 2" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.microservices.SpringEurekaImageApplication" />
+      <module name="spring-eureka-image" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8400" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaImageApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.SpringEurekaImageApplication" />
+      <module name="spring-eureka-image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.SpringEurekaServerApplication" />
+      <module name="spring-eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEurekaZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservices.SpringEurekaZuulApplication" />
+      <module name="spring-eureka-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringEurekaImageApplication 2" />
+      <item itemvalue="Application.SpringEurekaGalleryApplication" />
+      <item itemvalue="Application.SpringEurekaImageApplication" />
+      <item itemvalue="Application.SpringEurekaServerApplication" />
+      <item itemvalue="Application.SpringEurekaZuulApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringEurekaImageApplication" />
+        <item itemvalue="Application.SpringEurekaZuulApplication" />
+        <item itemvalue="Application.SpringEurekaGalleryApplication" />
+        <item itemvalue="Application.SpringEurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04128c1-c34e-4139-a725-0b14676501bd" name="Changes" comment="" />
+      <created>1667732874807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667732874807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.9.RELEASE/spring-cloud-netflix-zuul-2.2.9.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/route/RibbonRoutingFilter.class</url>
+          <line>172</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>480</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>167</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java</url>
+          <line>31</line>
+          <properties class="com.netflix.loadbalancer.AbstractLoadBalancerRule" method="setLoadBalancer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

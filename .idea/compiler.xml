@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-eureka-server" />
+        <module name="spring-eureka-zuul" />
+        <module name="spring-eureka-gallery" />
+        <module name="spring-eureka-image" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-eureka-gallery" options="-parameters" />
+      <module name="spring-eureka-image" options="-parameters" />
+      <module name="spring-eureka-server" options="-parameters" />
+      <module name="spring-eureka-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
